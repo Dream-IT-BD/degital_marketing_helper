@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RechargeApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="facebook_page_names">
+        <item>Select Facebook Page</item>
+        <item>Page One</item>
+        <item>Page Two</item>
+        <item>Page Three</item>
+        <item>Page Four</item>
+        <item>Page Five</item>
+    </string-array>
+
+    <string-array name="boost_goal">
+        <item>Select Boost Goal</item>
+        <item>Post Engagement</item>
+        <item>Video Views</item>
+        <item>Message</item>
+    </string-array>
+
+    <string-array name="gender_selector">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Both (Male, Female)</item>
+    </string-array>
+
+</resources>
